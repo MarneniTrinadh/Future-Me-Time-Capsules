@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "defaultMode": "default"
+  },
+  "companyAnnouncements": [
+    "👋 Welcome! New to this codebase? Ask Claude Code: 'Explain the architecture of this project.'",
+    "📖 Follow our coding guidelines before committing changes.",
+    "🔍 Always run tests before pushing code.",
+    "🛡️ Never commit secrets, tokens, or credentials to the repository.",
+    "📝 Write meaningful commit messages — future you will thank you.",
+    "👀 Every PR must go through code review before merging.",
+    "⚡ Tip: Ask Claude Code to explain complex functions or trace request flows.",
+    "🧪 If you add new logic, add unit tests as well.",
+    "📦 Keep dependencies updated and remove unused libraries.",
+    "🚀 Small, focused PRs are easier to review and merge."
+  ]
+}
